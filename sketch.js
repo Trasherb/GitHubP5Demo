@@ -24,7 +24,3 @@ function draw() {
     }
     
 }
-function windowRecized()
-    {
-      resizeCanvas(windowWidth,windowWidth)
-    }
