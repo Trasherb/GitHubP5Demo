@@ -15,7 +15,7 @@ function setup() {
 }
 
 function draw() {
-  background(50,25);
+  background(0,25);
   
   for(i=0;i<maxParticles;i++)
     {
